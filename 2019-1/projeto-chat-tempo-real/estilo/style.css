@@ -1,0 +1,37 @@
+.conteudo {
+    background-color: #333333;
+    width: 960px;
+    margin: 25px auto;
+    padding: 15px;
+}
+.mensagem {
+    width: 80%;
+    padding: 15px;
+    background: #00000000;
+    border: 1px solid #FFF;
+    color: #FFF;
+    font-size: 25px;
+}
+.btnEnviar {
+    width: 18%;
+    padding: 15px;
+    background: #00000000;
+    border: 1px solid #FFF;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #FFF;
+}
+.caixa {
+    border: 1px solid #F00;
+    margin-top: 50px;
+    list-style: none;
+    padding: 15px 8px;
+}
+.caixa li {
+    margin-top:8px;
+    border: 1px solid #0F0;
+    color: #f0f;
+}
+.caixa li:nth-child(1) {
+    margin-top:0px;
+}
