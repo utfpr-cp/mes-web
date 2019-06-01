@@ -30,7 +30,7 @@
 .caixa li {
     margin-top:8px;
     border: 1px solid #0F0;
-    color: #f0f;
+    color: #FFF;
 }
 .caixa li:nth-child(1) {
     margin-top:0px;
