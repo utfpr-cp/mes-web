@@ -1,0 +1,19 @@
+{
+  "name": "projeto-chat-tempo-real",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "author": "Guihgo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}

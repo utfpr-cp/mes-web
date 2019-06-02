@@ -1,0 +1,14 @@
+{
+  "name": "hellonode",
+  "version": "1.0.0",
+  "description": "hello nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Guihgo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
